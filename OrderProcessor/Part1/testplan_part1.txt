@@ -1,0 +1,36 @@
+There are only normal conditions to test
+
+Testing normal conditions
+
+> java OrderProcessorTester.java
+
+Mozzarella - price=$345.92844, order number=2
+Cheddar - price=$284.21463, order number=2
+Mozzarella - price=$304.99387, order number=4
+Cheddar - price=$477.82196, order number=4
+Mozzarella - price=$475.73944, order number=6
+Cheddar - price=$184.91551, order number=6
+Motherboard - manufacturer=COMPAQ, price=$239.12079, order number=1
+Drive - type=HDD, speed=184, price=$469.76944, order number=1
+Motherboard - manufacturer=COMPAQ, price=$163.22716, order number=3
+Drive - type=HDD, speed=162, price=$384.7171, order number=3
+Motherboard - manufacturer=MSI, price=$428.6537, order number=5
+Drive - type=HDD, speed=382, price=$66.88387, order number=5
+Apple - price=$238.72621, order number=2
+Apple - price=$104.98705, order number=4
+Apple - price=$380.45392, order number=6
+Peripheral - price=$65.64353, order number=1
+Peripheral - price=$121.26421, order number=3
+Peripheral - price=$239.89294, order number=5
+AssemblyService - provider=COMPAQ, price=$305.11417, order number=1
+DeliveryService - courier=DHL, price=$187.6198, order number=1
+DeliveryService - courier=DHL, price=$466.07977, order number=2
+AssemblyService - provider=Acer, price=$386.85696, order number=3
+DeliveryService - courier=DHL, price=$128.3226, order number=3
+DeliveryService - courier=DHL, price=$420.70938, order number=4
+AssemblyService - provider=COMPAQ, price=$221.38472, order number=5
+DeliveryService - courier=DHL, price=$336.514, order number=5
+DeliveryService - courier=DHL, price=$287.18018, order number=6
+
+
+(Values of the properties can vary as they are generated/picked randomly)

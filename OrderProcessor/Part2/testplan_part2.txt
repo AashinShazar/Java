@@ -1,0 +1,85 @@
+
+> java ComputerPartyOrderTester
+
+Mozzarella - price=$121.46051, order number=1
+Cheddar - price=$423.52017, order number=1
+Mozzarella - price=$95.67065, order number=2
+Cheddar - price=$451.20905, order number=2
+Mozzarella - price=$11.35755, order number=3
+Cheddar - price=$60.102444, order number=3
+Mozzarella - price=$133.37242, order number=4
+Cheddar - price=$226.54164, order number=4
+Mozzarella - price=$471.8276, order number=5
+Cheddar - price=$240.88086, order number=5
+Mozzarella - price=$244.99173, order number=6
+Cheddar - price=$277.73395, order number=6
+Mozzarella - price=$24.761234, order number=7
+Cheddar - price=$178.27672, order number=7
+Mozzarella - price=$445.0231, order number=8
+Cheddar - price=$107.114655, order number=8
+Mozzarella - price=$372.80655, order number=9
+Cheddar - price=$43.24844, order number=9
+Mozzarella - price=$192.2396, order number=10
+Cheddar - price=$114.6126, order number=10
+Motherboard - manufacturer=Dell, price=$369.9553, order number=1
+Drive - type=HDD, speed=424, price=$123.72859, order number=1
+Motherboard - manufacturer=Dell, price=$478.17206, order number=2
+Drive - type=HDD, speed=103, price=$13.450898, order number=2
+Motherboard - manufacturer=Dell, price=$123.07659, order number=3
+Drive - type=HDD, speed=115, price=$250.24014, order number=3
+Motherboard - manufacturer=HP, price=$355.3505, order number=4
+Drive - type=HDD, speed=53, price=$391.1366, order number=4
+Motherboard - manufacturer=MSI, price=$336.5183, order number=5
+Drive - type=HDD, speed=36, price=$412.56335, order number=5
+Motherboard - manufacturer=COMPAQ, price=$270.7421, order number=6
+Drive - type=HDD, speed=79, price=$386.7814, order number=6
+Motherboard - manufacturer=MSI, price=$458.79102, order number=7
+Drive - type=HDD, speed=349, price=$491.70743, order number=7
+Motherboard - manufacturer=Acer, price=$232.98524, order number=8
+Drive - type=HDD, speed=109, price=$322.01437, order number=8
+Motherboard - manufacturer=COMPAQ, price=$246.36078, order number=9
+Drive - type=HDD, speed=20, price=$262.3831, order number=9
+Motherboard - manufacturer=Acer, price=$312.29352, order number=10
+Drive - type=HDD, speed=275, price=$53.752144, order number=10
+Apple - price=$338.17285, order number=1
+Apple - price=$470.72998, order number=2
+Apple - price=$315.74582, order number=3
+Apple - price=$321.51007, order number=4
+Apple - price=$3.9894986, order number=5
+Apple - price=$55.017822, order number=6
+Apple - price=$308.67035, order number=7
+Apple - price=$74.82898, order number=8
+Apple - price=$397.6424, order number=9
+Apple - price=$254.55357, order number=10
+Peripheral - price=$94.32433, order number=1
+Peripheral - price=$15.621833, order number=2
+Peripheral - price=$15.493863, order number=3
+Peripheral - price=$382.50027, order number=4
+Peripheral - price=$317.73105, order number=5
+Peripheral - price=$228.14137, order number=6
+Peripheral - price=$113.98066, order number=7
+Peripheral - price=$209.29486, order number=8
+Peripheral - price=$105.319725, order number=9
+Peripheral - price=$311.02582, order number=10
+AssemblyService - provider=ASUS, price=$180.60928, order number=1
+DeliveryService - courier=DHL, price=$250.98154, order number=1
+AssemblyService - provider=ASUS, price=$174.95573, order number=2
+DeliveryService - courier=DHL, price=$428.88232, order number=2
+AssemblyService - provider=MSI, price=$18.744604, order number=3
+DeliveryService - courier=DHL, price=$54.814854, order number=3
+AssemblyService - provider=MSI, price=$3.9711745, order number=4
+DeliveryService - courier=DHL, price=$76.417, order number=4
+AssemblyService - provider=Dell, price=$376.3239, order number=5
+DeliveryService - courier=DHL, price=$42.600258, order number=5
+AssemblyService - provider=Dell, price=$134.44025, order number=6
+DeliveryService - courier=DHL, price=$421.66998, order number=6
+AssemblyService - provider=MSI, price=$135.32979, order number=7
+DeliveryService - courier=DHL, price=$106.733444, order number=7
+AssemblyService - provider=HP, price=$336.16895, order number=8
+DeliveryService - courier=DHL, price=$270.43417, order number=8
+AssemblyService - provider=COMPAQ, price=$207.56767, order number=9
+DeliveryService - courier=DHL, price=$210.98201, order number=9
+AssemblyService - provider=COMPAQ, price=$496.80258, order number=10
+DeliveryService - courier=DHL, price=$6.1145024, order number=10
+
+(Values of the properties can vary as they are generated/picked randomly)

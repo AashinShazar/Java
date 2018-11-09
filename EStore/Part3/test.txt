@@ -1,0 +1,16 @@
+type = "book"
+productID = "000025"
+name = "Absolute Java"
+price = "199.955"
+year = "2015"
+authors = "Walter Savitch, Kenrich Mock"
+publisher = "Pearson"
+
+type = "electronics"
+productID = "000107"
+name = "MacBook Air Book 1.5Ghz"
+price = "1099.99"
+year = "2013"
+maker = "Apple Inc."
+
+
